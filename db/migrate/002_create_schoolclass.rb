@@ -1,2 +1,0 @@
-class CreateSchoolClass < ActiveRecord::Migration
- 
